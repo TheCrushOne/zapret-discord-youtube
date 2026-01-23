@@ -46,4 +46,5 @@ betterttv.net
 7tv.app
 7tv.io
 localizeapi.com
+api.warframe.com
 klipy.com
