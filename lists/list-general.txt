@@ -46,3 +46,7 @@ betterttv.net
 7tv.io
 localizeapi.com
 api.warframe.com
+api.alecaframe.com
+api.warframe.market
+warframe.market
+cdn.alecaframe.com
