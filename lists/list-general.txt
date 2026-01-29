@@ -50,3 +50,5 @@ api.alecaframe.com
 api.warframe.market
 warframe.market
 cdn.alecaframe.com
+ua133.npvu.me
+wfmdirectcache.alecaframe.com
