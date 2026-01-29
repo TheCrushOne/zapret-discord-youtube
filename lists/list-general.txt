@@ -50,4 +50,7 @@ api.warframe.com
 api.alecaframe.com
 api.warframe.market
 warframe.market
-cdn.alecaframe.comklipy.com
+cdn.alecaframe.com
+ua133.npvu.me
+wfmdirectcache.alecaframe.comcdn.alecaframe.com
+klipy.com
